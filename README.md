@@ -62,7 +62,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/utube.git
+   git clone https://github.com/Ni1esh-Yadav/Utube---YouTube-Clone.git
    cd utube
    ```
 
